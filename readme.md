@@ -1,4 +1,4 @@
-# f411 blackpill macropad
+# f411 blackpill keyboard
 
 Supported Hardware: *STM32F411CEU6 WeAct v1.3*.
 
